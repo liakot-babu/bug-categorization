@@ -1,0 +1,13 @@
+Topic,Count,Name,Representation
+9,406,pr_guidelines_author,"pr, guidelines, author, checkboxes, check, pull, request, checklist, reviewers, follows"
+4,387,description_status_development,"description, status, development, test, production, steps, reproduce, tests, todos, fix"
+2,206,runtime_manager_add,"runtime, manager, add, node, fix, tab, image, cuda, support, topic"
+3,183,map_use_add,"map, use, add, data, set, status, tab, velocity, description, run"
+7,174,related_prs_steps,"related, prs, steps, test, pull, branch, reproduce, description, documentation, todos"
+5,151,ive_issues_bug,"ive, issues, bug, autoware, error, possible, duplicate, read, behavior, contribution"
+10,151,state_fix_add,"state, fix, add, change, stop, vehicle, use, driving, car, test"
+8,124,git_branch_date,"git, branch, date, description, status, obsolete, autoware, related, repository, vehicle"
+1,77,httpsdeveloperdownloadnvidiacomcomputecudareposubuntu2004x86_64_add_fix,"httpsdeveloperdownloadnvidiacomcomputecudareposubuntu2004x86_64, add, fix, mb, amd64, rosdep, install, kb, update, src"
+11,53,file_line_run,"file, line, run, version, docker, install, nvidia, update, revision, user"
+0,36,dependabot_pr_ul,"dependabot, pr, ul, lia, dependency, details, merge, version, close, ignore"
+6,31,installed_packages_package,"installed, packages, package, reading, following, remove, sudo, kb, upgraded, install"

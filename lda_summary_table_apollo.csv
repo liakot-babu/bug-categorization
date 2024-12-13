@@ -1,0 +1,13 @@
+Topic,Count,Name,Representation
+9,4502,planning_fix_control,"planning, fix, control, bug, added, lane, add, fixed, path, routing"
+1,2089,perception_add_dreamview,"perception, add, dreamview, test, fix, remove, mode, traffic, driver, lidar"
+8,1760,apollo_data_module,"apollo, data, module, perception, use, map, hi, like, camera, file"
+3,1469,add_update_docker,"add, update, docker, root, reference, size, canbus, undefined, scripts, docs"
+7,1023,code_const_new,"code, const, new, model, prediction, clean, return, lwp, double, refactor"
+2,990,apollo_ubuntu_version,"apollo, ubuntu, version, source, issue, information, os, installed, linux, platform"
+10,750,file_error_module,"file, error, module, failed, prediction, mainboard, start, message, line, conf"
+0,685,type_layer_file,"type, layer, file, data, tools, memory, tool, perception_lidar, shape, required"
+4,685,info_build_error,"info, build, error, failed, bash, package, apollosh, file, warning, building"
+5,389,docker_error_image,"docker, error, image, device, ok, container, pulling, waiting, dockerscriptsdev_startsh, status"
+11,152,received_id_small,"received, id, small, vehicle, larger, half, width105, laneid, data, simulation_world_serviceh224"
+6,71,speed_calibration_command,"speed, calibration, command, acceleration, 00, 200, 300, 350, 250, 220"
